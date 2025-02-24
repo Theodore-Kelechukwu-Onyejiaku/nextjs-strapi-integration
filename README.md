@@ -339,7 +339,7 @@ return (
 
 Now, this is what your Next.js project should look like:
 
-![Nextjs and strapi integration project.png](https://delicate-dawn-ac25646e6d.media.strapiapp.com/Nextjs_and_strapi_integration_project_e3881daeb5.png)
+![Nextjs and Strapi integration project sample.png](https://delicate-dawn-ac25646e6d.media.strapiapp.com/Nextjs_and_Strapi_integration_project_sample_9fcce1bbd0.png)
 
 Awesome, congratulations!
 
@@ -350,3 +350,5 @@ You can find the complete code for this project in the following [Github repo](h
 If you have any questions about Strapi 5 or just would like to stop by and say hi, you can join us at **Strapi's Discord Open Office Hours** Monday through Friday at 12:30 pm - 1:30 pm CST: [Strapi Discord Open Office Hours](https://discord.com/invite/strapi)
 
 For more details, visit the [Strapi documentation](https://strapi.io/documentation) and [Next.js documentation](https://nextjs.org/docs).
+
+<cta title="See Strapi in action with an interactive demo" text="Explore Strapi in an instant, hands-on demo set up just for you." buttontext="Access Live Demo!" buttonlink="https://strapi.io/demo"></cta>
